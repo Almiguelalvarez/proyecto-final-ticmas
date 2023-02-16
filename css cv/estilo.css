@@ -411,7 +411,7 @@ section[id] {
     background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
     background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
-    width: 400px;
+    width: 350px;
     padding: 25px;
     margin: auto;
     margin-top: 15%;
@@ -430,14 +430,14 @@ section[id] {
 
 #enviar {
    
-    padding: 5px 10px; 
+    padding: 8px 8px; 
     border-radius: 4px;
     font-weight: bold; 
     background: #3b5998;
     color: rgb(255, 255, 255); 
     cursor: pointer;
     text-align: center;
-    margin top: 8%;
+    margin-top: 10%;
 }
  
 
