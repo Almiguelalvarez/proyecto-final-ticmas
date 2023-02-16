@@ -15,7 +15,7 @@ html {
 
 body {
  background-image: url(justiciatransparencia.png);
- background-position: 20% 40%;
+ background-position: 20% 30%;
  max-width: 100%;
  height: auto;
  color: white;  
@@ -436,7 +436,7 @@ section[id] {
     background: #3b5998;
     color: rgb(255, 255, 255); 
     cursor: pointer;
-    text-align: center;
+    text-align: right;
 }
  
 
