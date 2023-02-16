@@ -436,7 +436,8 @@ section[id] {
     background: #3b5998;
     color: rgb(255, 255, 255); 
     cursor: pointer;
-    text-align: right;
+    text-align: center;
+    margin top: 8%;
 }
  
 
